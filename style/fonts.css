@@ -1,0 +1,65 @@
+
+@font-face {
+    src: url(fonts/Roboto-Regular.ttf);
+    font-family:Real_Regular;
+}
+
+@font-face {
+    src: url(fonts/Roboto-Bold.ttf);
+    font-family:Real_Bold;
+}
+
+@font-face {
+    src: url(fonts/Roboto-Italic.ttf);
+    font-family:Real_Italic;
+}
+
+@font-face {
+    src: url(fonts/Roboto-Thin.ttf);
+    font-family:Real_Thin;
+}
+
+@font-face {
+    src: url(fonts/Roboto-Light.ttf);
+    font-family:Real_Light;
+}
+
+@font-face {
+    src: url(fonts/Roboto-Medium.ttf);
+    font-family:Real_Medium;
+}
+
+@font-face {
+    src: url(fonts/Roboto-Condensed.ttf);
+    font-family:Real_Condensed;
+}
+
+@font-face {
+    src: url(fonts/Roboto-Black.ttf);
+    font-family:Real_Black;
+}
+
+@font-face {
+    src: url(fonts/Roboto-ThinItalic.ttf);
+    font-family:Real_ThinItalic;
+}
+
+@font-face {
+    src: url(fonts/Roboto-LightItalic.ttf);
+    font-family:Real_LightItalic;
+}
+
+@font-face {
+    src: url(fonts/Roboto-MediumItalic.ttf);
+    font-family:Real_MediumItalic;
+}
+
+@font-face {
+    src: url(fonts/EveryWeekDemoRegular.ttf);
+    font-family:Real_Week;
+}
+
+@font-face {
+    src: url(fonts/EuphoriaScript-Regular.ttf);
+    font-family:Real_Script;
+}
